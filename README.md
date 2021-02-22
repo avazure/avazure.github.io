@@ -1,17 +1,14 @@
 # avazure.github.io
 Mockup for Project
 
-## Dev
-- Install dependencies: npm install
+## Local Development
+- npm install
 
-- Build dist: npm run build
+- npm run start
 
-- Run server: npm run start
+- Access localhost:8080
 
-- Access localhost:9000
-
-# Publish to GH Pages
-
+## Publish to GH Pages
 - npm run deploy
 
-- Acces https://avazure.github.io/
+- Access https://avazure.github.io/
